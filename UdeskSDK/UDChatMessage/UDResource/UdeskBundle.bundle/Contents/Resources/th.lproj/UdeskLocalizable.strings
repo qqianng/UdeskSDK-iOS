@@ -1,0 +1,122 @@
+﻿/* 
+  UdeskLocalizable.strings
+  UdeskSDK
+
+  Created by Udesk on 16/9/2.
+  Copyright © 2016年 Udesk. All rights reserved.
+*/
+//faq
+"udesk_faq_title" = "ศูนย์ช่วยเหลือ";
+"udesk_faq_details_title" = "รายละเอียดปัญหา";
+"udesk_faq_search" = "ค้นหา";
+"udesk_faq_Contactus" = "ติดต่อเรา";
+"udesk_faq_tips" = "ไม่พบเนื้อหาที่คุณค้นหา?";
+
+//im
+"udesk_close" = "ปิด";
+"udesk_back" = "กลับ";
+"udesk_cancel" = "ยกเลิก";
+"udesk_sure" = "ยืนยัน";
+"udesk_alert_view_blocked_list" = "ขออภัย รายชื่อคุณถูกเพิ่มไปยังบัญชีดำ";
+"udesk_im_title_blocked_list" = "คุณถูกเพิ่มไปยังบัญชีดำ";
+"udesk_network_interrupt" = "เครือข่ายอินเทอร์เน็ตไม่มีการเชื่อมต่อ";
+"udesk_chat_end" = "การสนทนาเสร็จสิ้นแล้ว";
+"udesk_top_view_thanks_evaluation" = "ขอบคุณสำหรับการประเมิน!";
+"udesk_top_view_failure" = "การประเมินล้มเหลว!";
+"udesk_has_survey" = "ขอบคุณ คุณได้ประเมินการให้บริการครั้งนี้แล้ว!";
+"udesk_no_send_empty" = "ไม่สามารถส่งข้อความเปล่า";
+"udesk_resend_msg" = "ส่งข้อความนี้อีกครั้ง?";
+"udesk_send" = "ส่ง";
+"udesk_typing" = "กรอกข้อความ...";
+"udesk_hold_to_talk" = "กดค้างไว้เพื่อพูด";
+"udesk_release_to_cancel" = "ปล่อยนิ้ว เพื่อยกเลิกการส่ง";
+"udesk_microphone_denied" = "แอปต้องการเข้าถึงไมโครโฟนของคุณ \nกรุณาเปิดใช้งานไมโครโฟน-การตั้งค่า/ความเป็นส่วนตัว/ไมโครโฟน";
+"udesk_album_denied" = "แอปต้องการเข้าถึงรูปภาพของคุณ \nกรุณาเปิดใช้งานรูปภาพ-การตั้งค่า/ความเป็นส่วนตัว/รูปภาพ";
+"udesk_camera_denied" = "แอปต้องการเข้าถึงกล้องของคุณ \nกรุณาเปิดใช้งานกล้อง-การตั้งค่า/ความเป็นส่วนตัว/กล้อง";
+"udesk_leave_msg" = "ฝากข้อความ";
+"udesk_connecting_agent" = "กำลังเชื่อมต่อฝ่ายบริการลูกค้า...";
+"udesk_agent_offline" = "ฝ่ายบริการลูกค้าไม่อยู่ในสถานะออนไลน์";
+"udesk_agent_busy" = "ฝ่ายบริการลูกค้าไม่ว่างในขณะนี้";
+"udesk_redirect" = "ติดต่อพนักงาน";
+"udesk_robot_title" = "การสนทนาอัจฉริยะ";
+"udesk_alert_view_agent_busy_leave_msg" = "ฝ่ายบริการลูกค้าไม่ว่างในขณะนี้ หากคุณต้องการฝากข้อความ กรุณาคลิกที่ปุ่มเพื่อฝากข้อความ";
+"udesk_alert_view_leave_msg" = "ฝ่ายบริการลูกค้าไม่อยู่ในสถานะออนไลน์ คุณสามารถส่งแบบฟอร์มเพื่ออธิบายปัญหาของคุณ เราจะติดต่อกลับในภายหลัง";
+"udesk_alert_view_direct_msg" = "ฝ่ายบริการลูกค้าไม่อยู่ในสถานะออนไลน์ คุณสามารถฝากข้อความไว้เพื่ออธิบายปัญหาของคุณ เราจะติดต่อกลับในภายหลัง";
+"udesk_alert_view_no_reply_hint" = "ขณะนี้ไม่มีการบริการลูกค้าออนไลน์ กรุณาติดต่อฝ่ายบริการลูกค้าในช่วงเวลาทำการ";
+"udesk_network_disconnect" = "การเชื่อมต่ออินเทอร์เน็ตล้มเหลว โปรดเชื่อมต่ออีกครั้ง";
+"udesk_has_bad_net" = "เครือข่ายอินเทอร์เน็ตเกิดความผิดพลาด โปรดตรวจสอบการตั้งค่าเครือข่าย!";
+"udesk_wait_connecting" = "กำลังเชื่อมต่อ กรุณารอสักครู่...";
+"udesk_thanks" = "ขอบคุณสำหรับความคิดเห็นของคุณ";
+"udesk_reassign_agent"="กำลังจัดสรรพนักงานบริการลูกค้าใหม่ กรุณารอสักครู่...";
+"udesk_agent_not_exist" = "ไม่พบพนักงานบริการลูกค้า";
+"udesk_group_not_exist" = "ไม่พบกลุ่มบริการลูกค้า";
+"udesk_copy" = "คัดลอก";
+"udesk_call" = "โทร";
+"udesk_today" = "วันนี้";
+"udesk_yesterday" = "เมื่อวานนี้";
+"udesk_save" = "บันทึก";
+"udesk_failed_save" = "บันทึกล้มเหลว";
+"udesk_success_save" = "บันทึกสำเร็จ";
+"udesk_send_link" = "ส่งลิงค์";
+"udesk_choose_group" = "กรุณาเลือกกลุ่มบริการลูกค้า";
+"udesk_agent" = "ฝ่ายบริการลูกค้า";
+"udesk_online" = "ออนไลน์";
+"udesk_offline" = "ออฟไลน์";
+"udesk_failed_video" = "ไม่สามารถเล่นได้";
+"udesk_has_send" = "ส่งแล้ว";
+"udesk_has_downed" = "ดาวน์โหลดแล้ว";
+"udesk_video_download" = "ดาวน์โหลด";
+"udesk_has_uncomplete_tip" = "กรุณาคลิกอีกครั้ง หลังจากการดาวน์โหลดเสร็จสิ้น";
+"udesk_download_failure" = "การดาวน์โหลดล้มเหลว กรุณาดาวน์โหลดอีกครั้ง";
+"udesk_wwan_tips" = "การแจ้งเตือนเครือข่ายอินเทอร์เน็ต";
+"udesk_video_send_tips" = "ขณะนี้ไม่มีการเชื่อมต่อWi-Fi การส่งเอกสารจำเป็นต้องใช้อินเทอร์เน็ต จะดำเนินการต่อหรือไม่?";
+"udesk_video_big_tips" = "ไฟล์มีขนาดใหญ่เกินไป ไม่สามารถส่งไฟล์ได้ ";
+"udesk_customer_leave_msg" = "ลูกค้าฝากข้อความ";
+"udesk_leave_message_offline_reply" = "ฝากข้อความตอบกลับแบบออฟไลน์";
+"udesk_rollback" = "คุณได้ทำการยกเลิกการส่งข้อความ";
+"udesk_location" = "ตำแหน่งที่ตั้ง";
+"udesk_phone_number_tip" = "อาจเป็นหมายเลขโทรศัพท์ คุณสามารถ";
+"udesk_file_not_exist" = "ไม่พบไฟล์ดังกล่าว ลิงค์เกิดความผิดพลาด";
+"udesk_download_failed" = "ดาวน์โหลดล้มเหลว";
+"udesk_search" = "ค้นหา";
+"udesk_video_export_failed" = "การดาวน์โหลดวิดีโอล้มเหลว";"udesk_agent_transfer_tip" = "เชื่อมต่อกับพนักงานบริการลูกค้าสำเร็จ @ยินดีให้บริการ";
+
+"udesk_preview" = "ดูตัวอย่าง";
+"udesk_full_image" = "ภาพต้นฉบับ";
+"udesk_photo" = "รูปภาพ";
+"udesk_max_count_photo" = "คุณสามารถเลือกรูปภาพได้มากที่สุด@รูป";
+"udesk_small_video_tips" = "แตะเพื่อถ่ายภาพ กดค้างเพื่อถ่ายวิดีโอ";
+"udesk_second" = "วินาที";
+"udesk_album" = "อัลบั้ม";
+"udesk_shooting" = "ถ่าย";
+"udesk_survey" = "ประเมิน";
+"udesk_location" = "ตำแหน่งที่ตั้ง";
+"udesk_video_call" = "การโทรแบบวิดีโอ";
+"udesk_hold_to_talk" = "กดค้าง พูด";
+"udesk_release_to_send" = "ปล่อย สิ้นสุด";
+"udesk_release_to_cancel" = "ปล่อย ยกเลิก";
+"udesk_slide_up_to_cancel" = "สไลด์ขึ้นเพื่อยกเลิกการส่ง";
+"udesk_release_up_to_cancel" = "ปล่อยนิ้วเพื่อยกเลิกการส่ง";
+"udesk_message_too_short" = "ข้อความสั้นเกินไป";
+"udesk_service_survey" = "ประเมินการให้บริการ";
+"udesk_submit_survey" = "ยืนยันการประเมิน";
+"udesk_survey_satisfied" = "พอใจ";
+"udesk_survey_general" = "ปานกลาง";
+"udesk_survey_unsatisfactory" = "ไม่พอใจ";
+"udesk_survey_tips" = "กรุณาประเมินการให้บริการในครั้งนี้ ขอบคุณ!";
+"udesk_survey_remark_required" = "จำเป็นต้องกรอกข้อความประเมิน";
+"udesk_admin" = "ผู้ดูแล";
+"udesk_queue" = "กำลังต่อคิว";
+
+"udesk_video_call_duration" = "ระยะเวลาการโทร：";
+
+//agent
+"udesk_video_call_agent_busy" = "สายไม่ว่าง";
+"udesk_video_call_agent_decline" = "การโทรถูกปฏิเสธ";
+"udesk_video_call_agent_cancel" = "ยกเลิกแล้ว";
+"udesk_video_call_agent_not_answered" = "ไม่มีการตอบรับ";
+"udesk_video_call_agent_not_logged_in" = "ฝ่ายบริการลูกค้าไม่ได้เข้าสู่การโทรแบบวิดีโอ";
+
+//customer
+"udesk_video_call_customer_cancel" = "การโทรถูกยกเลิก";
+"udesk_video_call_customer_decline" = "ปฏิเสธแล้ว";
